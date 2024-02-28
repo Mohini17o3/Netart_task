@@ -18,4 +18,10 @@ body {
   
 }
 
+@media(max-width: 576px) {
+  body{
+    margin : 40px
+  }
+    
+  }
 
